@@ -1,7 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="432a4054-cee5-43f8-ad9c-fd1ae9d1f2f9" name="Default Changelist" comment="" />
+    <list default="true" id="432a4054-cee5-43f8-ad9c-fd1ae9d1f2f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/apalylaravel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/apalylaravel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/p/PController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/p/PController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artisan" beforeDir="false" afterPath="$PROJECT_DIR$/artisan" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Exception.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Exception.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/PHPMailer.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/PHPMailer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/SMTP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/SMTP.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/flexslider.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/flexslider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/1111.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/1111.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/about.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/about.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/accomidation.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/accomidation.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/close.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/close.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/fashion-2940243_640.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/fashion-2940243_640.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/left1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/left1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/man-2933801_640.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/man-2933801_640.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/p1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/p1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/p10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/p10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/p11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/p11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/p12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/p12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/p2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/p2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/p3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/p3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/p4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/p4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/p5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/p5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/p6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/p6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/p7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/p7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/p8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/p8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/p9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/p9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/people-2590560_640.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/people-2590560_640.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portrait-1961529_640.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/portrait-1961529_640.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portrait-2163997_640.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/portrait-2163997_640.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/portrait-2917643_640.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/portrait-2917643_640.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/right1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/right1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/t6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/t6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/testimonial.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/testimonial.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/tick.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/tick.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/travel1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/travel1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/travel2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/travel2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/travel3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/travel3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/SmoothScroll.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/SmoothScroll.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/grayscale.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/grayscale.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/jquery.easing.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/jquery.easing.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/jquery.flexslider.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/jquery.flexslider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/jquery.picEyes.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/jquery.picEyes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/move-top.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/move-top.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +99,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="53" column="31" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="31" />
+            <state relative-caret-position="501">
+              <caret line="62" column="41" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -60,6 +131,9 @@
       <replace>src=&quot;/js/</replace>
       <replace>src=&quot;/images/</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -171,6 +245,7 @@
     <option name="width" value="1935" />
     <option name="height" value="1030" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -244,6 +319,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="D:/xammpp/htdocs/learn" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -285,12 +361,12 @@
       <option name="presentableId" value="Default" />
       <updated>1582361742805</updated>
       <workItem from="1582361753957" duration="1000" />
-      <workItem from="1582361810564" duration="10379000" />
+      <workItem from="1582361810564" duration="11047000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10380000" />
+    <option name="totallyTimeSpent" value="11048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -494,8 +570,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="53" column="31" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="31" />
+        <state relative-caret-position="501">
+          <caret line="62" column="41" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="41" />
         </state>
       </provider>
     </entry>

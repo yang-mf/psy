@@ -45,7 +45,7 @@ function a($email,$text)
     $mail->CharSet = 'UTF-8';
 
 //设置发件人姓名（昵称） 任意内容，显示在收件人邮件的发件人邮箱地址前的发件人姓名
-    $mail->FromName = 'ymf';
+    $mail->FromName = '昵称';
 
 //smtp登录的账号 这里填入字符串格式的qq号即可
     $mail->Username ='yangmf1101@163.com';
@@ -66,10 +66,10 @@ function a($email,$text)
 // $mail->addAddress('xxx@163.com','爱代码，爱生活世界');
 
 //添加该邮件的主题
-    $mail->Subject = $text;
+    $mail->Subject = '御剑乘风来，除魔天地间';
 
 //添加邮件正文 上方将isHTML设置成了true，则可以是完整的html字符串 如：使用file_get_contents函数读取本地的html文件
-    $mail->Body = '我们欢迎您的加入';
+    $mail->Body = $text;
 
 //为该邮件添加附件 该方法也有两个参数 第一个参数为附件存放的目录（相对目录、或绝对目录均可） 第二参数为在邮件附件中该附件的名称
 // $mail->addAttachment('./d.jpg','mm.jpg');
